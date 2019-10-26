@@ -6,9 +6,9 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-django = "==1.11.9"
 django-rest-framework = "*"
 spotipy = "*"
+django = "==1.11.17"
 
 [requires]
 python_version = "3.7"
